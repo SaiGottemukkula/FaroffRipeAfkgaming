@@ -9,7 +9,6 @@ S = 0
 L = 0
 P = 0
 
-
 def LS_X(word):
   loop_number = 0
   while loop_number <= X:  
